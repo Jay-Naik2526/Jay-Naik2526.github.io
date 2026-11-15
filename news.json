@@ -1,0 +1,44 @@
+{
+	"items": [
+		{
+			"id": "2026-11-15-notice-board",
+			"date": "2026-11-15",
+			"tag": "FEATURE",
+			"title": "This notice board",
+			"body": "Whatever gets added to the site is posted here, newest first. New ones are marked NEW until you have seen them."
+		},
+		{
+			"id": "2026-11-15-shared-links",
+			"date": "2026-11-15",
+			"tag": "FIX",
+			"title": "Shared page links open the exact page",
+			"body": "Use the reader's menu → Share this page. The link now lands on that page instead of the top of the document."
+		},
+		{
+			"id": "os-units-5-6-7-deck",
+			"tag": "NOTES",
+			"title": "Operating Systems: Units 1–4 and Units 5–7 TEE decks",
+			"body": "Both slide decks are readable on the site, with search and contents.",
+			"href": "/s/os"
+		},
+		{
+			"id": "exam-timetable",
+			"tag": "FEATURE",
+			"title": "Exam timetable and countdown",
+			"body": "The desk shows your next paper and how long is left. Tap it to see all papers and jump to a subject.",
+			"href": "/desk"
+		},
+		{
+			"id": "download-subject-zip",
+			"tag": "FEATURE",
+			"title": "Download a whole subject",
+			"body": "Every subject page has a button that bundles all its PDFs into one zip, for offline use."
+		},
+		{
+			"id": "drive-folders",
+			"tag": "NOTES",
+			"title": "Class material and PYQs on Drive",
+			"body": "Each subject page now lists its Google Drive folders, so class material and previous-year papers are one tap away."
+		}
+	]
+}
