@@ -1,6 +1,14 @@
 {
 	"items": [
 		{
+			"id": "2026-11-15-image-video-processing-theory-notes-all-",
+			"date": "2026-11-15",
+			"tag": "NOTES",
+			"title": "Image & Video Processing: theory notes, all 8 units",
+			"body": "Theory only, no numericals. Every topic asked in a past paper is tagged PYQ, with a PYQ index and a quick revision sheet at the end.",
+			"href": "/s/ivp"
+		},
+		{
 			"id": "2026-11-15-operations-research-solved-pyqs-latest-3",
 			"date": "2026-11-15",
 			"tag": "NOTES",
