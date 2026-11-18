@@ -1,6 +1,14 @@
 {
 	"items": [
 		{
+			"id": "2026-11-18-compiler-design-assignment-solutions",
+			"date": "2026-11-18",
+			"tag": "NOTES",
+			"title": "Compiler Design: assignment solutions",
+			"body": "All 21 questions of the assignment solved step by step: parsing tables, parse trees, DAGs, flow graphs and activation records, with a quick answer key.",
+			"href": "/s/cd"
+		},
+		{
 			"id": "2026-11-17-compiler-design-chapterwise-solved-pyqs",
 			"date": "2026-11-17",
 			"tag": "NOTES",
