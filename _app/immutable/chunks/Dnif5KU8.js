@@ -1,0 +1,1 @@
+import{t as e}from"./CIL_z2y3.js";var t=108e5,n=t=>e.find(e=>e.slug===t)??null,r=(e,n=Date.now())=>new Date(e.date).getTime()+t>n,i=(t=Date.now())=>e.filter(e=>r(e,t)),a=(e,t)=>new Date(e).toLocaleDateString(`en-IN`,{timeZone:`Asia/Kolkata`,...t}),o=e=>a(e,{weekday:`short`,day:`2-digit`,month:`short`}),s=e=>a(e,{day:`2-digit`,month:`short`});export{i as a,s as i,n,r,o as t};
