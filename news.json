@@ -1,6 +1,14 @@
 {
 	"items": [
 		{
+			"id": "2026-11-23-operating-systems-solved-papers-last-3-f",
+			"date": "2026-11-23",
+			"tag": "NOTES",
+			"title": "Operating Systems: solved papers, last 3 finals",
+			"body": "Nov 2025, Nov 2024 and Nov 2023 finals fully worked: Gantt charts, Banker's, paging, disk scheduling, page replacement, with a table of topics that keep repeating.",
+			"href": "/s/os"
+		},
+		{
 			"id": "2026-11-21-software-engineering-solved-pyqs-two-way",
 			"date": "2026-11-21",
 			"tag": "NOTES",
