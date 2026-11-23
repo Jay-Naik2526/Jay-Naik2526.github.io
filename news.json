@@ -1,6 +1,14 @@
 {
 	"items": [
 		{
+			"id": "2026-11-23-operating-systems-shorts-chapter-by-chap",
+			"date": "2026-11-23",
+			"tag": "FEATURE",
+			"title": "Operating Systems: Shorts, chapter by chapter",
+			"body": "Quick revision Shorts for all 7 OS chapters, one YouTube playlist per chapter. Find them on the OS page.",
+			"href": "/s/os"
+		},
+		{
 			"id": "2026-11-23-operating-systems-solved-papers-last-3-f",
 			"date": "2026-11-23",
 			"tag": "NOTES",

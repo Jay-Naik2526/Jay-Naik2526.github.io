@@ -1,0 +1,14 @@
+{
+	"os": {
+		"channel": "https://www.youtube.com/@jaynaik-pw1lo",
+		"chapters": [
+			{ "n": 1, "title": "Operating System Overview", "url": "https://www.youtube.com/playlist?list=PLKdCInhU8bhI" },
+			{ "n": 2, "title": "Process and Process Scheduling", "url": "https://www.youtube.com/playlist?list=PLTv0z8Z6rKXM" },
+			{ "n": 3, "title": "Process Concurrency and Synchronization", "url": "https://www.youtube.com/playlist?list=PLOPFcK41rAF8" },
+			{ "n": 4, "title": "Deadlocks", "url": "https://www.youtube.com/playlist?list=PLQuok0cuS0AI" },
+			{ "n": 5, "title": "Memory Management", "url": "https://www.youtube.com/playlist?list=PLBPepDEpga2g" },
+			{ "n": 6, "title": "IO Management and Disk Scheduling", "url": "https://www.youtube.com/playlist?list=PLETs4GLltUvY" },
+			{ "n": 7, "title": "File Management", "url": "https://www.youtube.com/playlist?list=PLJTdFaTkMmVY" }
+		]
+	}
+}
