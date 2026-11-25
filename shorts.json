@@ -2,13 +2,87 @@
 	"os": {
 		"channel": "https://www.youtube.com/@jaynaik-pw1lo",
 		"chapters": [
-			{ "n": 1, "title": "Operating System Overview", "url": "https://www.youtube.com/playlist?list=PLKdCInhU8bhI" },
-			{ "n": 2, "title": "Process and Process Scheduling", "url": "https://www.youtube.com/playlist?list=PLTv0z8Z6rKXM" },
-			{ "n": 3, "title": "Process Concurrency and Synchronization", "url": "https://www.youtube.com/playlist?list=PLOPFcK41rAF8" },
-			{ "n": 4, "title": "Deadlocks", "url": "https://www.youtube.com/playlist?list=PLQuok0cuS0AI" },
-			{ "n": 5, "title": "Memory Management", "url": "https://www.youtube.com/playlist?list=PLBPepDEpga2g" },
-			{ "n": 6, "title": "IO Management and Disk Scheduling", "url": "https://www.youtube.com/playlist?list=PLETs4GLltUvY" },
-			{ "n": 7, "title": "File Management", "url": "https://www.youtube.com/playlist?list=PLJTdFaTkMmVY" }
+			{
+				"n": 1,
+				"title": "Operating System Overview",
+				"url": "https://www.youtube.com/playlist?list=PLKdCInhU8bhI"
+			},
+			{
+				"n": 2,
+				"title": "Process and Process Scheduling",
+				"url": "https://www.youtube.com/playlist?list=PLTv0z8Z6rKXM"
+			},
+			{
+				"n": 3,
+				"title": "Process Concurrency and Synchronization",
+				"url": "https://www.youtube.com/playlist?list=PLOPFcK41rAF8"
+			},
+			{
+				"n": 4,
+				"title": "Deadlocks",
+				"url": "https://www.youtube.com/playlist?list=PLQuok0cuS0AI"
+			},
+			{
+				"n": 5,
+				"title": "Memory Management",
+				"url": "https://www.youtube.com/playlist?list=PLBPepDEpga2g"
+			},
+			{
+				"n": 6,
+				"title": "IO Management and Disk Scheduling",
+				"url": "https://www.youtube.com/playlist?list=PLETs4GLltUvY"
+			},
+			{
+				"n": 7,
+				"title": "File Management",
+				"url": "https://www.youtube.com/playlist?list=PLJTdFaTkMmVY"
+			}
+		]
+	},
+	"ivp": {
+		"channel": "https://www.youtube.com/@jaynaik-pw1lo",
+		"label": "unit",
+		"chapters": [
+			{
+				"n": 1,
+				"title": "Image Fundamentals",
+				"url": "https://www.youtube.com/playlist?list=PLVyv6enxFC6k"
+			},
+			{
+				"n": 2,
+				"title": "Image Enhancement",
+				"url": "https://www.youtube.com/playlist?list=PLMrjBSlBw3rY"
+			},
+			{
+				"n": 3,
+				"title": "Image Transforms",
+				"url": "https://www.youtube.com/playlist?list=PLTR5nK2_7f8k"
+			},
+			{
+				"n": 4,
+				"title": "Morphological Image Processing",
+				"url": "https://www.youtube.com/playlist?list=PLCBSPzkecPtw"
+			},
+			{
+				"n": 5,
+				"title": "Edge Detection",
+				"url": "https://www.youtube.com/playlist?list=PLIJb27aTg9zU"
+			},
+			{
+				"n": 6,
+				"title": "Image Segmentation",
+				"url": "https://www.youtube.com/playlist?list=PLCJCIRPY97Qw"
+			},
+			{
+				"n": 7,
+				"title": "Colour Image Processing",
+				"url": "https://www.youtube.com/playlist?list=PLaSWxMLHy1zs"
+			},
+			{
+				"n": 8,
+				"title": "Video Processing",
+				"url": "https://www.youtube.com/playlist?list=PLDujSePAcN3s"
+			}
 		]
 	}
 }
